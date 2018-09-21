@@ -7,4 +7,4 @@ Each line consists of a tweet and its respective emotion label separated by semi
 
 ## Citation
 If you want to publish a paper using this dataset, please cite this publication: <br />
-**Mei Silviana Saputri, Rahmad Mahendra, and Mirna Adriani, "*Emotion Classification on Indonesian Twitter Dataset*", in Proceeding of International Conference on Asian Language Processing 2018. IALP) 2018. (to be published). **
+__Mei Silviana Saputri, Rahmad Mahendra, and Mirna Adriani, "*Emotion Classification on Indonesian Twitter Dataset*", in Proceeding of International Conference on Asian Language Processing 2018. 2018. (to be published). __
