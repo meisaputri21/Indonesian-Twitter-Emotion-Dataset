@@ -3,7 +3,7 @@
 This dataset contains 4.403 Indonesian tweets which are labeled into five emotion classes: love, anger, sadness, joy and fear. 
 
 ## Data Format
-Each line consists of a tweet and its respective emotion label separated by semicolon (;). The first line is a header. </br>
+Each line consists of a tweet and its respective emotion label separated by semicolon (,). The first line is a header. For a tweet with coma (,) inside the text, there is an quote (" ") to avoid column separation.  </br>
 The tweets in this dataset has been pre-processed using the following criterias:
 1. Username mention (@) has been replaced with term *[USERNAME]*
 2. URL/hyperlink (http://... or https://...) has been replaced with term *[URL]*
