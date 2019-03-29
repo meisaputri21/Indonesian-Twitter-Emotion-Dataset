@@ -11,7 +11,7 @@ The tweets in this dataset has been pre-processed using the following criterias:
 
 ## Citation
 If you want to publish a paper using this dataset, please cite this publication: <br />
-**Mei Silviana Saputri, Rahmad Mahendra, and Mirna Adriani, "*Emotion Classification on Indonesian Twitter Dataset*", in Proceeding of International Conference on Asian Language Processing 2018. 2018. (to be published).**
+**Mei Silviana Saputri, Rahmad Mahendra, and Mirna Adriani, "*Emotion Classification on Indonesian Twitter Dataset*", in Proceeding of International Conference on Asian Language Processing 2018. 2018.**
 
 
 ## License
